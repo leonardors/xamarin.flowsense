@@ -1,0 +1,56 @@
+bin/
+**/**/Resource.Designer.cs
+Temp/**/*.zip
+test-results
+Temp/Manager - NodeJs/node_modules/.bin/
+test.db
+*.suo
+*.nupkg
+obj/
+AppPackages/
+ARM/
+Debug/
+shelf.zip
+menu.zip
+Release/
+Release_QA/
+ReleaseQA/
+QA/
+*.umenu
+.DS_Store
+*.user
+rdpreader_sharp.sln.DotSettings
+*.mdb
+packages
+dev_custom_settings.xml
+Temp/Manager - NodeJs/npm-debug.log
+lib/GoogleAnalytics/android/3
+lib/GooglePlayServices/20
+*.opensdf
+*.sdf
+toShelfXamarin.sh
+*.cache
+menu/
+mainContainer/
+mainContainer_old/
+RDPReader.Estacio.WindowsPhone.App/temp/*
+RDPReader.Estacio.WindowsPhone.App/Assets/temp/*
+*.sap
+PerfLogs/
+BinariesNuget/
+Solutions/ipch
+_ReSharper.Caches/
+.vs/
+node_modules/
+**/Thumbs.db
+Solutions/Components/*
+Solutions/Release QA/*
+*.opendb
+*.db
+Solutions/Components/
+Solutions/Release QA/
+**.db
+**.opendb
+*.userprefs
+Solutions/UpgradeLog4.htm
+Apps/RDPReader.App.Android.X/Assets/shelf.zip
