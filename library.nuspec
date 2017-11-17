@@ -1,0 +1,25 @@
+﻿<?xml version="1.0"?>
+<package>
+    <metadata>
+        <id>RDPFlowsense</id>
+        <version>1.0.0</version>
+        <title>RDPFlowsense</title>
+        <authors>Digital Pages</authors>
+        <owners>Digital Pages</owners>
+        <projectUrl>https://github.com/digitalpages/rdpreader_sharp</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Integração com flowsense</description>
+        <releaseNotes>
+            primeira versão
+        </releaseNotes>
+        <copyright>Copyright 2015</copyright>
+        <tags>RDP Flowsense</tags>
+        <dependencies>
+        </dependencies>
+    </metadata>
+    <files>
+
+        <!-- iOS -->
+        <file src="flowsense.bind.ios/bin/Release/flowsense.bind.ios.dll" target="lib/xamarinios10/flowsense.bind.ios.dll" />
+    </files>
+</package>
