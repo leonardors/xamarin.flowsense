@@ -9,7 +9,6 @@
     <RootNamespace>flowsense.bind.ios</RootNamespace>
     <AssemblyName>flowsense.bind.ios</AssemblyName>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
-    <ReleaseVersion>1.0.0</ReleaseVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
